@@ -1,6 +1,6 @@
 # React Tic-Tac-Toe
 
-Tic Tac Toe game using React hooks
+Tic Tac Toe game built using React hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
